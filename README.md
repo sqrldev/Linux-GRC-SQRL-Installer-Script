@@ -1,4 +1,4 @@
-#Linux GRC SQRL Installer Script
+# Linux GRC SQRL Installer Script
 
 This is a *Bash* script to make it easy for most Linux users to install the SQRL Windows client from GRC to run under WINE.
 
