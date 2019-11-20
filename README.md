@@ -12,9 +12,7 @@ At the moment, the only viable alternative for Linux users is the browser extens
 
 ## So, what do I do?
 
-Just download the `sqrl-install.sh` script and place it somewhere you can run it from, such as `~/Downloads`. As with all scripts, you might have to make it executable with
-
-```chmod a+x sqrl-install.sh```
+Just download the `sqrl-install.sh` script and place it somewhere you can run it from, such as `~/Downloads`. As with all scripts, you might have to make it executable with `chmod a+x sqrl-install.sh`.
 
 ## What will I need?
 
