@@ -26,16 +26,16 @@ The script also uses *wget* to download the latest `sqrl.exe` file from grc.com.
 
 Just type `./sqrl-install.sh` from the command line or double-click the file in a file manager. (You may have to use right-click options to get it to run the file instead of opening it in a text editor; again, see the documentation for your distro.)
 
-# Wait, that's it?
+## Wait, that's it?
 
 Yep! SQRL will be installed and running, and you can either create your new SQRL identity or, if you already have one, import it from another client.
 
-# Authors
+## Authors
 
 * **Shane D. Killian** - *Initial work*
 
 See also the list of contributors who participated in this project.
 
-# License
+## License
 
 [CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/): To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. This software is distributed without any warranty.
