@@ -46,6 +46,13 @@ if [ ! -f sqrl.exe ]; then
 	  exit 127
 	fi
 	wget https://www.grc.com/dev/sqrl.exe
+	
+	# Let's make sure it worked
+	
+	if [ ! -f sqrl.exe ]; then
+	  echo 'Error: sqrl.exe could not be downloaded into the current directory. Check your permissions and network connection and try again, or download the file manually and place it in the current directory.' >&2
+	  exit 1
+	fi
 fi
 
 # All being well, we run the installation.
